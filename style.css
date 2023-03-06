@@ -14,7 +14,7 @@ html {
 
 
 body {
-    background: #dad8d8;
+    background: #f0ecec;
     font-family: 'Roboto', sans-serif;
 }
 #home{
@@ -365,7 +365,8 @@ img {
 }
 
 #icon_menu {
-    display: block;
+display: flex;
+align-items: center;
     cursor: pointer;
     font-size: 30px;
 
