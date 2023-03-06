@@ -346,13 +346,9 @@ nav ul li a {
 
 }
 
-@media (max-width: 400px) {
+@media (max-width: 414px) {
 
-#icon_menu {
-    display: block;
-    cursor: pointer;
-    font-size: 24px;
-}
+
 
 nav ul li a {
     display: none;
@@ -366,6 +362,18 @@ img {
 
     font-size: 25px;
     
+}
+
+#icon_menu {
+    display: block;
+    cursor: pointer;
+    font-size: 30px;
+
+}
+
+.logo_inicio {
+    display: flex;
+    align-items: center;
 }
     
 }
